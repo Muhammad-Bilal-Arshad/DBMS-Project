@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "61c4cdaff6bf4d3a23cdb0ac"
+  },
+  "plateform_name": "XBOX 360",
+  "releaseyear": 2005,
+  "manufacturer": "MICROSOFT"
+},{
+  "_id": {
+    "$oid": "61c4ceeaf6bf4d3a23cdb0ad"
+  },
+  "plateform_name": "XBOX ONE",
+  "releaseyear": 2013,
+  "manufacturer": "MICROSOFT"
+},{
+  "_id": {
+    "$oid": "61c4cf1bf6bf4d3a23cdb0ae"
+  },
+  "plateform_name": "PS 3",
+  "releaseyear": 2006,
+  "manufacturer": "SONY"
+},{
+  "_id": {
+    "$oid": "61c4cf2af6bf4d3a23cdb0af"
+  },
+  "plateform_name": "PS 4",
+  "releaseyear": 2013,
+  "manufacturer": "SONY"
+},{
+  "_id": {
+    "$oid": "61c4cf56f6bf4d3a23cdb0b0"
+  },
+  "plateform_name": "WINDOWS 1-",
+  "releaseyear": 2012,
+  "manufacturer": "MICROSOFT"
+}]

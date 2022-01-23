@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "61c1f613d84c5d6029839403"
+  },
+  "Name": "Rockstar",
+  "Reputation": "10",
+  "Country": "USA"
+},{
+  "_id": {
+    "$oid": "61c1f7e3d84c5d6029839404"
+  },
+  "Name": "Ubisoft",
+  "Reputation": "8",
+  "Country": "France"
+},{
+  "_id": {
+    "$oid": "61c1f8a5d84c5d6029839405"
+  },
+  "Name": "Mojang Studios",
+  "Reputation": "7",
+  "Country": "Sweden"
+},{
+  "_id": {
+    "$oid": "61c1f933d84c5d6029839406"
+  },
+  "Name": "EA Sports",
+  "Reputation": "6",
+  "Country": "USA"
+},{
+  "_id": {
+    "$oid": "61c1f9d1d84c5d6029839407"
+  },
+  "Name": "Moon Studios",
+  "Reputation": "7",
+  "Country": "Austria"
+}]

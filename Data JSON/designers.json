@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "61c494a7f6bf4d3a23cdb032"
+  },
+  "designers_name": "Leslie Benzies",
+  "Age": 50,
+  "Gender": "M"
+},{
+  "_id": {
+    "$oid": "61c49506f6bf4d3a23cdb03a"
+  },
+  "designers_name": "Darryl Long",
+  "Age": 60,
+  "Gender": "M"
+},{
+  "_id": {
+    "$oid": "61c49525f6bf4d3a23cdb041"
+  },
+  "designers_name": "Eric Baptizat",
+  "Age": 48,
+  "Gender": "M"
+},{
+  "_id": {
+    "$oid": "61c4953ef6bf4d3a23cdb046"
+  },
+  "designers_name": "Markus Persson",
+  "Age": 42,
+  "Gender": "M"
+},{
+  "_id": {
+    "$oid": "61c49555f6bf4d3a23cdb04b"
+  },
+  "designers_name": "Eric Holmes",
+  "Age": 47,
+  "Gender": "M"
+}]

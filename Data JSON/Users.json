@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "61b9ac25f0d15bb46c734647"
+  },
+  "User_name": "Saqib",
+  "User_email": "saqib12@gmail.com",
+  "User_password": "231"
+},{
+  "_id": {
+    "$oid": "61c1f298d84c5d60298393f8"
+  },
+  "User_name": "Anis",
+  "User_email": "anissarwar@gmail.com",
+  "User_password": "456"
+},{
+  "_id": {
+    "$oid": "61c1f29ed84c5d60298393f9"
+  },
+  "User_name": "Bilal",
+  "User_email": "muhammadbilalarshad490@gmail.com",
+  "User_password": "123"
+},{
+  "_id": {
+    "$oid": "61c1f372d84c5d60298393fa"
+  },
+  "User_name": "Shahzad",
+  "User_email": "shahzad12@gmail.com",
+  "User_password": "236"
+},{
+  "_id": {
+    "$oid": "61cadf70c600afa6598dc8ea"
+  },
+  "User_name": "Hassan",
+  "User_email": "Hassan12@gmail.com",
+  "User_password": "2366"
+}]

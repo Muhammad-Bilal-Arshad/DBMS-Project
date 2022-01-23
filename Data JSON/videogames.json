@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "61bb7ca5f0d15bb46c73464d"
+  },
+  "game_name": "GTA 5",
+  "releaseyear": "2013",
+  "rating": "10",
+  "price": "6",
+  "Size_GB": "95",
+  "designers_name": "Leslie Benzies",
+  "engines_name": "RAGE",
+  "genres_name": "OpenWorld",
+  "studio_name": "Rockstar"
+},{
+  "_id": {
+    "$oid": "61bb7ca5f0d15bb46c73464e"
+  },
+  "game_name": "Assassin Creed Origins",
+  "releaseyear": "2017",
+  "rating": 8,
+  "price": 60,
+  "Size_GB": 42,
+  "designers_name": "Eric Baptizat",
+  "engines_name": "AnvilNext 2.0",
+  "genres_name": "OpenWorld",
+  "studio_name": "Ubisoft"
+},{
+  "_id": {
+    "$oid": "61bb7ca5f0d15bb46c734651"
+  },
+  "game_name": "Ori and the Blind forest",
+  "releaseyear": "2015",
+  "rating": "8",
+  "price": "50",
+  "Size_GB": "8",
+  "designers_name": "Thomas Mahler",
+  "studio_name": "Moon Studios",
+  "engines_name": "Unity",
+  "genres_name": "Adventure"
+},{
+  "_id": {
+    "$oid": "61c75a5562f409600f8b6b92"
+  },
+  "game_name": "Maryo Run",
+  "releaseyear": "2010",
+  "rating": "9",
+  "price": "5",
+  "Size_GB": "5",
+  "designers_name": "Anis",
+  "studio_name": "Moon Studios",
+  "engines_name": "Unity",
+  "genres_name": "Adventure"
+},{
+  "_id": {
+    "$oid": "61c75abe62f409600f8b6b94"
+  },
+  "game_name": "PUBG",
+  "releaseyear": "2010",
+  "rating": "4",
+  "price": "5",
+  "Size_GB": "50",
+  "designers_name": "Larie",
+  "studio_name": "ABC Studios",
+  "engines_name": "Unity",
+  "genres_name": "Fighting Game"
+}]
